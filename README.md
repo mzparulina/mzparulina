@@ -4,7 +4,7 @@ I'm Pauline.
 </p>
 
 
-- 🔭 I’m currently working on creating a react firebase app (crwn-clothing)
+- 🔭 I’m currently creating a react firebase app (crwn-clothing)
 
 
 
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzparulina)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzparulina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
