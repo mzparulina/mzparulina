@@ -1,6 +1,8 @@
 <h1> Hi! :wave:</h1>
 <p>I'm Pauline.</p>
-I create fun, innovative, accessible, and fast websites.
+
+Your developing partner.
+
 **About me**
 
 - 💼 FrontEnd Engineer
