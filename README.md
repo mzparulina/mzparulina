@@ -1,5 +1,11 @@
 ### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Pauline.
+</p>
 
+
+- 🔭 I’m currently working on creating a react firebase app (crwn-clothing)
 <!--
 **mzparulina/mzparulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +22,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzparulina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzparulina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
