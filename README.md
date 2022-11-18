@@ -3,6 +3,8 @@
 
 Your developing partner.
 
+[![@mzparulina's Holopin board](https://holopin.me/mzparulina)](https://holopin.io/@mzparulina)
+
 **About me**
 
 - 💼 FrontEnd Engineer
